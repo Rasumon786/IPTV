@@ -139,6 +139,9 @@ http://tv.cloudcdn.me/live.?channelId=215&&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png", BBO HD
 http://tv.cloudcdn.me:80/live?channelId=86148&deviceMac=00:1A:79:03:ED:4F
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/xmxjpJC/bollywood-hd.jpg",Bollywood HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/8g34wKV/Zee-Anmol-Cinema.png",Zee Anmol Cinema
 http://tv.cloudcdn.me:80/live?channelId=209&deviceMac=00:1A:79:03:ED:4F
 
