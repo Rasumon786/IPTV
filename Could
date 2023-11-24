@@ -1,0 +1,414 @@
+#EXTM3U 
+
+#EXTINF:-01 tvg-logo="https://imgur.com/H9qgGSc.png", BTV HD 
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RR0Iv6V.png",BTV World
+
+
+
+#EXTINF:-02 tvg-logo="https://i.imgur.com/5PsRkPd.png", ATN BANGLA 
+http://176.119.29.52:80/live?channelId=81&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-03 tvg-logo="https://i.imgur.com/p0I5dr0.png",  CHANNEL I HD
+http://tv.cloudcdn.me:80/live?channelId=89&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-04 tvg-logo="https://i.imgur.com/HX8SSDA.png", Bangla Vision 
+http://176.119.29.52:80/live?channelId=84&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-05 tvg-logo="https://i.imgur.com/yi5p51T.png", RTV HD
+http://176.119.29.52:80/live?channelId=112&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-06 tvg-logo="https://i.imgur.com/3usnOla.png", NTV BD
+http://tv.cloudcdn.me:80/live?channelId=110&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-07 tvg-logo="https://i.imgur.com/kFqOMtx.png", Ekusey TV
+http://tv.cloudcdn.me:80/live?channelId=96&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-08 tvg-logo="https://i.imgur.com/pTJSGtj.png", Boishakhi TV
+http://tv.cloudcdn.me:80/live?channelId=86&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-09 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GAZI TV
+http://tv.cloudcdn.me:80/live?channelId=98&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-010 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga HD
+http://tv.cloudcdn.me:80/live?channelId=101&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-011 tvg-logo="https://i.imgur.com/fj8nxOw.png", Channel 9 HD
+http://tv.cloudcdn.me:80/live?channelId=88&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-012 tvg-logo="https://i.imgur.com/tPZKfLr.png", Deepto TV HD
+http://tv.cloudcdn.me:80/live?channelId=90232&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-013 tvg-logo="https://i.imgur.com/fxq0pV2.png", Asian TV 
+http://tv.cloudcdn.me:80/live?channelId=80&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-014 tvg-logo="https://imgur.com/McQwv50.png", SATV
+http://176.119.29.52:80/live?channelId=114&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-015 tvg-logo="https://i.imgur.com/2cpHJKq.png", Nagorik TV
+
+
+#EXTINF:-01 tvg-logo="https://i.ibb.co/3sBVw9B/FB-IMG-1698573127902.jpg", Ekhon TV 
+http://tv.cloudcdn.me:80/live?channelId=90302&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-016 tvg-logo="https://i.imgur.com/K43LsMQ.png", Bangla TV
+http://tv.cloudcdn.me:80/live?channelId=44159&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-017 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg",Nexus TV
+http://176.119.29.52:80/live?channelId=90300&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-018 tvg-logo="https://i.imgur.com/bahWhBG.png" , My TV BD
+http://tv.cloudcdn.me:80/live?channelId=106&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-019 tvg-logo="https://i.imgur.com/JgkIH3w.png", Desh TV
+http://tv.cloudcdn.me:80/live?channelId=93&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-020 tvg-logo="https://i.imgur.com/4imblNY.jpg", Mohona TV HD
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-021 tvg-logo="https://i.imgur.com/h5FhOWT.png", Ananda TV
+http://tv.cloudcdn.me:80/live?channelId=90255&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-022 tvg-logo="https://i.imgur.com/kDmkexe.png", Bijoy TV
+http://tv.cloudcdn.me:80/live?channelId=85&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-023 tvg-logo="https://i.imgur.com/ppJO2Ep.png", Star Jalsha HD
+http://tv.cloudcdn.me/live?channelId=116&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-024 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD 
+http://tv.cloudcdn.me:80/live?channelId=120&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-025 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bengali HD
+http://tv.cloudcdn.me:80/live?channelId=92&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
+http://tv.cloudcdn.me:80/live?channelId=90228&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-026 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony aath
+http://tv.cloudcdn.me:80/live?channelId=44150&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-027 tvg-logo="https://i.imgur.com/2PQfcOh.png", Jalsha Movies HD 
+http://tv.cloudcdn.me:80/live?channelId=117&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://imgur.com/uP36aiN.png",Colors Bangla Cinema
+
+
+#EXTINF:-028 tvg-logo="https://i.imgur.com/M6GyIvI.png" , Zee Bangla Cinema
+http://tv.cloudcdn.me:80/live?channelId=119&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-029 tvg-logo="https://i.imgur.com/AMhvwJB.png", Star Plus HD 
+http://tv.cloudcdn.me:80/live?channelId=200&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-030 tvg-logo="https://i.imgur.com/0aWOFB9.png" , Colors HD
+http://tv.cloudcdn.me:80/live?channelId=160&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-031 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" , Sony HD
+http://tv.cloudcdn.me:80/live?channelId=193&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-032 tvg-logo="https://i.imgur.com/9SYqIRU.png" , Zee TV HD
+http://tv.cloudcdn.me:80/live?channelId=217&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-033 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665" , And TV HD
+http://tv.cloudcdn.me:80/live?channelId=140&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-034 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png",Star Bharat HD
+http://tv.cloudcdn.me:80/live?channelId=195&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-035 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" , Sony SAB HD
+http://tv.cloudcdn.me:80/live?channelId=260&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-036 tvg-logo="https://i.imgur.com/vGq343l.png", Star Gold HD
+http://tv.cloudcdn.me:80/live?channelId=196&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-037 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" , Sony Max HD 
+http://tv.cloudcdn.me:80/live?channelId=184&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png", Zee Cinema HD
+http://tv.cloudcdn.me:80/live?channelId=12359&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-039 tvg-logo="https://i.imgur.com/UPwxT6Y.png", And Pictures HD 
+http://tv.cloudcdn.me:80/live?channelId=139&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-040 tvg-logo="https://i.imgur.com/q0nObmP.png", Star Gold Select HD
+http://tv.cloudcdn.me:80/live?channelId=197&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-041 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
+http://tv.cloudcdn.me:80/live?channelId=470&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfvg1V8/miniplex-fb.jpg",Miniplex HD 
+http://tv.cloudcdn.me/live.?channelId=215&&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png", BBO HD
+http://tv.cloudcdn.me:80/live?channelId=86148&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g34wKV/Zee-Anmol-Cinema.png",Zee Anmol Cinema
+http://tv.cloudcdn.me:80/live?channelId=209&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -1  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" , Sony MAX2
+http://tv.cloudcdn.me:80/live?channelId=183&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png", B4U Movies
+http://tv.cloudcdn.me:80/live?channelId=153&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://imgur.com/G0fh0PU.png",Star Gold2
+http://tv.cloudcdn.me:80/live?channelId=33165&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -048 tvg-logo="https://i.imgur.com/wVQwK4D.png", Zee Bollywood
+http://tv.cloudcdn.me:80/live?channelId=210&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -049 tvg-logo="https://i.imgur.com/RjiBQP2.png", Zee Action
+http://tv.cloudcdn.me:80/live?channelId=207&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-050 tvg-logo="https://static.epg.best/pk/HumTV.pk.png",HUM TV HD 
+http://tv.cloudcdn.me:80/live?channelId=422&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-051 tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png",GEO HD
+http://tv.cloudcdn.me:80/live?channelId=410&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-052 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png",ARY DIGITAL
+http://tv.cloudcdn.me:80/live?channelId=382&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7yXHsr/and-flix-hd.jpg",& flix HD 
+
+
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-priv├йhd/channel_web/1170x658withlogo_375086496.png",&Prive HD
+
+
+#EXTINF:-055 tvg-logo="https://i.imgur.com/M0bRPMs.png", Star Movies HD
+http://tv.cloudcdn.me:80/live?channelId=198&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/stpb5GQ/star-movies-select.jpg",Star Mov Select HD 
+http://tv.cloudcdn.me:80/live?channelId=199&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-057 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" , Sony Pix HD
+http://tv.cloudcdn.me:80/live?channelId=189&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-058 tvg-logo="https://i.ibb.co/WccJxq3/Colors-Infinity-HD.png" ,Colors Infinity HD
+http://tv.cloudcdn.me:80/live?channelId=157&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png", Comedy Central HD
+
+
+#EXTINF:-061 tvg-logo="https://i.imgur.com/69pCK1u.png", AXN HD
+
+
+
+#EXTINF:-059 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png", HBO HD
+http://tv.cloudcdn.me:80/live?channelId=49858&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/BNaXQWX.png",Movies Now HD
+http://tv.cloudcdn.me:80/live?channelId=162&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://imgur.com/iA4v1yN.png",MN+ HD
+
+
+#EXTINF: -062 tvg-logo="https://i.imgur.com/rfjCQoz.png", Star World HD
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cywbXd1/star-world-premium.jpg",Star World Pre HD
+
+
+#EXTINF:0  tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo325698699",Zee Café HD
+http://tv.cloudcdn.me:80/live?channelId=212&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-067 tvg-logo="https://i.imgur.com/CJUmEHD.png", T Sports HD 
+http://tv.cloudcdn.me/live?channelId=48010&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/c53SXnN.png",PTV Sports HD
+http://tv.cloudcdn.me:80/live?channelId=278&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-0 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png",A SPORTS 
+http://tv.cloudcdn.me:80/live?channelId=12217&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/js9Pey4.png",willow HD
+http://tv.cloudcdn.me:80/live?channelId=302&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-074 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Five HD
+http://tv.cloudcdn.me:80/live?channelId=105350&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-075 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Ten 1 HD
+http://tv.cloudcdn.me:80/live?channelId=289&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-076 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" ,Ten 2 HD
+http://tv.cloudcdn.me:80/live?channelId=290&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-077 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" ,Ten 3 HD
+http://tv.cloudcdn.me:80/live?channelId=291&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-78 tvg-logo="https://i.imgur.com/3ibgIMV.png", Star Sports1 HD
+http://tv.cloudcdn.me:80/live?channelId=293&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-079 tvg-logo="https://i.imgur.com/VcSPzlc.png" , Star Sports2 HD 
+http://tv.cloudcdn.me:80/live?channelId=298&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-080 tvg-logo="https://i.imgur.com/TL2jAU6.png" , Star Sports Select 1 HD
+http://tv.cloudcdn.me:80/live?channelId=299&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-081 tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Spo Sel2 HD
+http://tv.cloudcdn.me:80/live?channelId=300&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg",Geo Super TV
+http://tv.cloudcdn.me:80/live?channelId=274&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:1 tvg-logo="https://imgur.com/tXJb1pM.png",BT SPORT1
+
+
+#EXTINF:1 tvg-logo="https://imgur.com/tXJb1pM.png",BT SPORT2
+
+
+#EXTINF:1 tvg-logo="https://imgur.com/tXJb1pM.png",BT SPORT3
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/R6HReXT.png", Sky Sports Cricket
+http://tv.cloudcdn.me:80/live?channelId=35530&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" ,Sky Sports Football
+http://tv.cloudcdn.me:80/live?channelId=90229&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-086 tvg-logo="https://i.imgur.com/m7Cl2M9.png", National Geographic HD
+http://tv.cloudcdn.me:80/live?channelId=125057&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-087 tvg-logo="https://i.imgur.com/MCyL9wX.png", National Geo Wild
+http://tv.cloudcdn.me:80/live?channelId=177&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -088 tvg-logo="https://m3u-editor.com/storage/channel-logos/13a256a0-e736-11ed-941b-2fd7e430caa9/4683727/832798826.png", Discovery HD World
+http://tv.cloudcdn.me:80/live?channelId=164&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -089 tvg-logo="https://m3u-editor.com/storage/channel-logos/13a256a0-e736-11ed-941b-2fd7e430caa9/4683727/832798827.png" , Animal Planet HD World
+http://tv.cloudcdn.me:80/live?channelId=151&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -090 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" , BBC Earth HD
+http://tv.cloudcdn.me:80/live?channelId=40478&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -091 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" , History TV18 HD
+http://tv.cloudcdn.me:80/live?channelId=70099&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -092 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" , Travel XP HD
+http://tv.cloudcdn.me:80/live?channelId=70970&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -093 tvg-logo="https://m3u-editor.com/storage/channel-logos/13a256a0-e736-11ed-941b-2fd7e430caa9/4683727/832798828.png" , Discovery Science
+http://tv.cloudcdn.me:80/live?channelId=166&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -094 tvg-logo="https://m3u-editor.com/storage/channel-logos/13a256a0-e736-11ed-941b-2fd7e430caa9/4683727/832798829.png", TLC HD
+http://tv.cloudcdn.me:80/live?channelId=205&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-95 tvg-logo="https://i.imgur.com/PK9Gm5g.png",Duronto TV
+http://tv.cloudcdn.me:80/live?channelId=74553&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-96 tvg-logo="https://i.imgur.com/4MNpDTQ.png" , Animax
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Qkvo1BH.png",SONIC
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VKSpv5k.png",Pogo SD
+http://tv.cloudcdn.me:80/live?channelId=256&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/2tjaJND.png",CN
+
+
+#EXTINF:-097 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" , Sony Yay 
+http://tv.cloudcdn.me:80/live?channelId=78849&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-098 tvg-logo="https://i.imgur.com/rm7OMLk.png", Nick
+
+
+
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/636b0db9-e298-43d3-97a2-f628986a0426.png",Discovery Kids 
+http://tv.cloudcdn.me:80/live?channelId=76048deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-099 tvg-logo="https://i.imgur.com/Jo7wzmn.png", Gaan Bangla
+http://tv.cloudcdn.me/live?channelId=97&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-101 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", Sangeet Bangla
+http://tv.cloudcdn.me:80/live?channelId=38893&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-102 tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" , MTV HD 
+http://tv.cloudcdn.me:80/live?channelId=174&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-103 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" , MTV Beats HD
+http://tv.cloudcdn.me:80/live?channelId=173&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -104 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" , Mastiii
+http://tv.cloudcdn.me:80/live?channelId=172&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -106  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" , 9XM
+http://tv.cloudcdn.me:80/live?channelId=143&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -107 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" , B4U Music
+http://tv.cloudcdn.me:80/live?channelId=205&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-108  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" , Music India
+http://tv.cloudcdn.me:80/live?channelId=175&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF: -109 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" , iLove
+
+
+#EXTINF:-110 tvg-logo="https://i.imgur.com/wzg83W0.jpg",Zoom
+
+
+#EXTINF:-111 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" , BBC World News
+
+
+#EXTINF:-112 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png", CNN
+
+
+#EXTINF:-113 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" , AL Jazeera
+http://tv.cloudcdn.me/live?channelId=4202&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-114 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" , 24 Ghanta TV
+http://tv.cloudcdn.me/live.ts?channelId=78&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" ,Aaj Tak
+http://tv.cloudcdn.me:80/live?channelId=175&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-1  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg",Zee News 
+http://tv.cloudcdn.me:80/live?channelId=216&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",News 18 India 
+http://tv.cloudcdn.me:80/live?channelId=61901&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-115 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png",Somoy TV
+http://176.119.29.52:80/live?channelId=115&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-116 tvg-logo="https://i.imgur.com/MmhxR5E.png", Channel 24 HD
+
+
+#EXTINF:-117 tvg-logo="https://i.imgur.com/djAX8Rc.png", DBC News
+http://tv.cloudcdn.me/live.ts?channelId=29197&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-118 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png",Ekattor TV
+http://tv.cloudcdn.me/live.ts?channelId=95&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-119 tvg-logo="https://i.imgur.com/kviJN1i.png", Independent TV
+http://tv.cloudcdn.me/live.ts?channelId=99&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-120 tvg-logo="https://i.imgur.com/ds3aThu.jpg", Jamuna TV
+http://tv.cloudcdn.me/live.ts?channelId=100&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-121 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN NEWS
+http://tv.cloudcdn.me/live?channelId=83&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-122 tvg-logo="https://i.imgur.com/FxsW4XI.png",News 24 HD 
+http://tv.cloudcdn.me/live?channelId=87&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+
+
+
+
+
+
+
+
+
+
