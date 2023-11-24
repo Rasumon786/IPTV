@@ -41,7 +41,7 @@ http://176.119.29.52:80/live?channelId=114&deviceMac=00:1A:79:03:ED:4F
 
 
 #EXTINF:-015 group-title="Bangla tv " tvg-logo="https://i.imgur.com/2cpHJKq.png", Nagorik TV
-
+http://bdplay.xyz:8080/live/yasir/yasir/210.m3u8
 
 #EXTINF:-01 group-title="Bangla tv " tvg-logo="https://i.ibb.co/3sBVw9B/FB-IMG-1698573127902.jpg", Ekhon TV 
 http://tv.cloudcdn.me:80/live?channelId=90302&deviceMac=00:1A:79:03:ED:4F
@@ -167,10 +167,10 @@ http://tv.cloudcdn.me:80/live?channelId=410&deviceMac=00:1A:79:03:ED:4F
 http://tv.cloudcdn.me:80/live?channelId=382&deviceMac=00:1A:79:03:ED:4F
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/z7yXHsr/and-flix-hd.jpg",& flix HD 
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&Prive HD
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155746&extension=m3u8
 
 #EXTINF:-0 group-title="English Movies" tvg-logo="https://i.imgur.com/M0bRPMs.png", Star Movies HD
 http://tv.cloudcdn.me:80/live?channelId=198&deviceMac=00:1A:79:03:ED:4F
